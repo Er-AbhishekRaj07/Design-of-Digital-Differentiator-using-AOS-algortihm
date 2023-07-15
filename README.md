@@ -1,4 +1,4 @@
-# Design of Digital Differentiator Using AOS Algorithm**
+# Design of Digital Differentiator Using AOS Algorithm
 
 This repository contains the implementation and design of a digital differentiator using the Atomic Orbital Search (AOS) algorithm. The AOS algorithm is a metaheuristic optimization algorithm inspired by the behavior of atomic orbitals in quantum mechanics.
 
@@ -26,13 +26,7 @@ To use the digital differentiator design and understand the implementation detai
 
 - MATLAB software installed on your machine.
 
-## Citation
 
-If you find this work useful or utilize the provided code and documentation in your research or project, please consider citing the following paper:
-
-```
-[Insert citation details of the paper here]
-```
 
 ## License
 
